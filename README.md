@@ -1,4 +1,3 @@
-## Project name: E-Commerce Logistics Data Analytics and Delivery Optimization
 # Logistics Data Analytics – Brazilian E-Commerce
 
 ## Project Overview
